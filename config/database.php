@@ -7,8 +7,8 @@
 // Database configuration - Update these for your server
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'petrol_station');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_USER', 'daniel');
+define('DB_PASS', '2050a');
 
 try {
     $dsn = "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=utf8mb4";
